@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Harikrishna prajapati<br>💻 Passionate about software development, machine learning, and solving real-world problems through technology.<br>🌱 Currently learning advanced AI techniques and enhancing my skills in computer vision ,deep learning and data science.<br>🚀 I enjoy building innovative projects and collaborating on open-source initiatives.<br>📫 Let's connect: [www.linkedin.com/in/harikrishna-prajapati-052664254]<br><br>
 
 
